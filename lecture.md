@@ -125,6 +125,59 @@ Runge-Kutta method.
 
 ## Lecture 10 (9/14)
 
-Consistency of Runge-Kutta method. 
+Consistency of Runge-Kutta method. Taylor expansion.
+
+**Reading**: [Hai] II.2
+
+## Lecture 11 (9/17)
+
+
+Consistency of Runge-Kutta method. Diagram method.
 
 **Reading**: [Wil] pp 95-107
+
+[Lecture Note 4 (pdf)](lectures/228A_Lec4.pdf)
+
+## Lecture 12 (9/19)
+
+Zero stability of Runge-Kutta method. 
+
+**Reading**: [Hai] II.3 
+
+
+## Lecture 13 (9/21)
+
+Collocation method. Consistency
+
+[Notebook: Gauss quadrature](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/GaussQuadrature.ipynb)
+
+**Reading**: [Ise] 3.1-3.4, [Hai] I.14
+
+## Lecture 14 (9/24)
+
+**Reading**: 
+
+
+## Lecture 15 (9/26)
+
+Embedded Runge-Kutta method.
+
+**Reading**: 
+
+
+## Lecture 16 (9/28)
+
+**Reading**: 
+
+## Lecture 17 (10/1)
+
+**Reading**: 
+
+## Lecture 18 (10/3)
+
+**Reading**: 
+
+## Lecture 19 (10/5)
+
+**Reading**: 
+
