@@ -155,29 +155,202 @@ Collocation method. Consistency
 
 ## Lecture 14 (9/24)
 
+Gauss quadrature. Lanczos method.
+
 **Reading**: 
+
+[Lecture Note 5 (pdf)](lectures/228A_Lec5.pdf)
+
+[D. Levy's notes on Gauss quadrature](others/GaussianQuad.pdf)
+
+[G. Golub, G. Meurant, Matrices, moments and quadrature, (1993)](others/GM93.pdf)
+
+[G. Golub, J.H. Welsch, Calculation of Gauss Quadrature Rules, (1968) 221–230](others/GM68.pdf)
 
 
 ## Lecture 15 (9/26)
 
-Embedded Runge-Kutta method.
+Embedded Runge-Kutta method. Absolute stability
 
-**Reading**: 
+**Reading**: [LeV] 7.1-7.4 
 
 
 ## Lecture 16 (9/28)
 
-**Reading**: 
+Absolute stability
+
+**Reading**: [LeV] 7.5-7.7. [Ise] 4.2-4.4
+
+[Lecture Note 6 (pdf)](lectures/228A_Lec6.pdf)
+
+[Notebook: Stability region](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/StabilityRegion.ipynb)
 
 ## Lecture 17 (10/1)
 
-**Reading**: 
+Stiff equations
+
+**Reading**: [LeV] 8.1-8.3. [Ise] 4.1. [Hai] IV.1. 
+
+[Notebook: Stiff equations](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/StiffEquation.ipynb)
 
 ## Lecture 18 (10/3)
 
-**Reading**: 
+Stiff equations
+
+**Reading**: [LeV] 8.1-8.3. [Ise] 4.1. [Hai] IV.1. 
+
+[Lecture Note 7 (pdf)](lectures/228A_Lec7.pdf)
+
 
 ## Lecture 19 (10/5)
 
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+[Notebook: Symplectic integrator](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Symplectic.ipynb)
+
+[Lecture Note 8 (pdf)](lectures/228A_Lec8.pdf)
+
+## Lecture 20 (10/8)
+
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+Some excellent reading materials given by Ernst Hairer:
+
+https://www.unige.ch/~hairer/poly_geoint/week1.pdf
+
+https://www.unige.ch/~hairer/poly_geoint/week2.pdf
+
+https://www.unige.ch/~hairer/poly_geoint/week3.pdf
+
+## Lecture 21 (10/10)
+
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+Recent work on the interesting connection between optimization and symplectic
+integration:
+
+M. Betancourt, M.I. Jordan, A.C. Wilson, On Symplectic Optimization, (2018) http://arxiv.org/abs/1802.03653.
+
+## Lecture 22 (10/12)
+
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+[Lecture Note 9 (pdf)](lectures/228A_Lec9.pdf)
+
+## Lecture 23 (10/15)
+
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+## Lecture 24 (10/17)
+
+Exponential time differencing method.
+
+**Reading**: [LeV] 11.6.
+
+[Notebook: Exponential time differencing](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/ExponentialTimeDifferencing.ipynb)
+
+
+S.M. Cox, P.C. Matthews, Exponential Time Differencing for Stiff Systems, J. Comput. Phys. 176 (2002) 430–455. 
+
+A.-K. Kassam, L.N. Trefethen, Fourth-Order Time-Stepping for Stiff PDEs, SIAM J. Sci. Comput. 26 (2005) 1214–1233.
+
+C. Moler, C. Van Loan, Nineteen Dubious Ways to Compute the Exponential of a Matrix, Twenty-Five Years Later, SIAM Rev. 45 (2003) 3–49.
+
+## Lecture 25 (10/19)
+
+Exponential time differencing method.
+
+**Reading**: [LeV] 11.6.
+
+[Notebook: Matrix exponentials](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Matrix_exponential.ipynb)
+
+[Lecture Note 10 (pdf)](lectures/228A_Lec10.pdf)
+
+## Lecture 26 (10/22)
+
+Nonlinear equations. 
+
+**Reading**: [Ise] 7.1-7.3  
+
+[Lecture Note 11 (pdf)](lectures/228A_Lec11.pdf)
+
+[Notebook: Nonlinear equations](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/NonlinearEquations.ipynb)
+
+
+## Lecture 27 (10/24)
+
+Nonlinear equations. 
+
+**Reading**: [Ise] 7.1-7.3  
+
+
+## Lecture 28 (10/26)
+
 **Reading**: 
 
+
+## Lecture 29 (10/29)
+
+**Reading**: 
+
+
+## Lecture 30 (10/31)
+
+
+**Reading**: 
+
+
+## Lecture 31 (11/2)
+
+**Reading**: 
+
+
+## Lecture 32 (11/5)
+
+**Reading**: 
+
+
+## Lecture 33 (11/7)
+
+
+**Reading**: 
+
+
+## Lecture 34 (11/9)
+
+**Reading**: 
+
+
+## Lecture 35 (11/14)
+
+**Reading**: 
+
+
+## Lecture 36 (11/16)
+
+**Reading**: 
+
+
+## Lecture 37 (11/19)
+
+**Reading**: 
+
+
+## Lecture 38 (11/26)
+
+**Reading**: 
+
+
+## Lecture 39 (11/28)
+
+**Reading**: 
